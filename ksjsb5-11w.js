@@ -3,8 +3,8 @@ IOS/安卓： 快手极速版
 
 Fixed by HarbourJ
 TG: https://t.me/HarbourToulu
-0504版本，内置热心网友的看广告json，已放本人仓库，并已加代理，可直接开跑
-Modified from 东哥, 东哥牛逼！
+6-11w版本，已加代理，可直接开跑，建议和稳定版配合跑！
+凌晨2点前不要跑！跑完这个7次再换稳定版跑，隔天更新一下仓库！
 
 重写：
 [task_local]
